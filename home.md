@@ -10,7 +10,7 @@
 
 <body class="stackedit">
   <div class="stackedit__html"><p><img src="https://i.postimg.cc/HkhxZDhd/output-onlinepngtools.png" alt="enter image description here"><br>
-<a href="subpage/team.html">Team</a> <a href="subpage/leistungen.html">Leistungen</a> <a href="subpage/projekte.html">Projekte</a> <a href="subpage/kontakt.html">Kontakt</a></p>
+<a href="subpage/team.md">Team</a> <a href="subpage/leistungen.html">Leistungen</a> <a href="subpage/projekte.html">Projekte</a> <a href="subpage/kontakt.html">Kontakt</a></p>
 <h1 id="vierb">vierB!</h1>
 <p><strong>Sanieren - Reparieren - Instandhalten - Warten:</strong> Wir sind ZimmererInnen, DachdeckerInnen, ArchitektInnen und IngenieurInnen. Bauen im Bestand, erhalten was schon da ist.</p>
 <h2 id="team">Team</h2>
